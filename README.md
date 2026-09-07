@@ -6,5 +6,5 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 - [Is it Christmas?](https://isitchristmas.com)
 - [NANDGAME] (https://www.nandgame.com/) 
 ## Formatting Examples:
-1. *Italic* text.
-2. **Bold** Text.
+1. *Italic* Betoning.
+2. **Bold** Betoning.
