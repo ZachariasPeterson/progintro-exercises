@@ -1,0 +1,14 @@
+C:\Users\zacha\Documents\SDU\OOP\new_project\bin\Debug\net10.0\new_project.exe
+C:\Users\zacha\Documents\SDU\OOP\new_project\bin\Debug\net10.0\new_project.deps.json
+C:\Users\zacha\Documents\SDU\OOP\new_project\bin\Debug\net10.0\new_project.runtimeconfig.json
+C:\Users\zacha\Documents\SDU\OOP\new_project\bin\Debug\net10.0\new_project.dll
+C:\Users\zacha\Documents\SDU\OOP\new_project\bin\Debug\net10.0\new_project.pdb
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.AssemblyInfoInputs.cache
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.AssemblyInfo.cs
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.dll
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\refint\new_project.dll
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.pdb
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\new_project.genruntimeconfig.cache
+C:\Users\zacha\Documents\SDU\OOP\new_project\obj\Debug\net10.0\ref\new_project.dll
