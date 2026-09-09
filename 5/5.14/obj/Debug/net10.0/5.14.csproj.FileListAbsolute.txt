@@ -1,0 +1,15 @@
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.AssemblyInfoInputs.cache
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.AssemblyInfo.cs
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.sourcelink.json
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\bin\Debug\net10.0\5.14.exe
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\bin\Debug\net10.0\5.14.deps.json
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\bin\Debug\net10.0\5.14.runtimeconfig.json
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\bin\Debug\net10.0\5.14.dll
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\bin\Debug\net10.0\5.14.pdb
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.dll
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\refint\5.14.dll
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.pdb
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\5.14.genruntimeconfig.cache
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\5\5.14\obj\Debug\net10.0\ref\5.14.dll
