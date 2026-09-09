@@ -1,0 +1,12 @@
+﻿byte R1 = 1;
+byte R2 = 3;
+byte R3 = 5;
+float A1 = (float) (Math.PI*R1*R1);
+float A2 = (float)(Math.PI*R2*R2);
+float A3 = (float)(Math.PI*R3*R3);
+Console.Write("Area of circle with radius 1: ");
+Console.WriteLine(A1);
+Console.Write("Area of circle with radius 3: ");
+Console.WriteLine(A2);
+Console.Write("Area of circle with radius 5: ");
+Console.WriteLine(A3);
