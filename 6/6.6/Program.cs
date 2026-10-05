@@ -5,7 +5,7 @@
 
 
 
-
+/* PA1 test noter
 for (i = 1 ; num[j]<num[i] ; i++) {
     for (j = 0 ; num[i]<num[j] ; j++) {
 }
@@ -15,14 +15,14 @@ Console.Write(num[j]);
 
 
 
-// anden metode
+ anden metode
 
 int min = num[
 
 
 
-//gamle
-// 
+gamle
+
 foreach(int num in array){
     if (num[j]<num[i]){
     i++;
@@ -50,4 +50,4 @@ Console.WriteLine(min);
 
 
 
-k
+*/
