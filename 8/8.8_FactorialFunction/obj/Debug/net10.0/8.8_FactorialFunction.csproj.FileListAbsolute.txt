@@ -1,0 +1,15 @@
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.AssemblyInfoInputs.cache
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.AssemblyInfo.cs
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.csproj.CoreCompileInputs.cache
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.sourcelink.json
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\bin\Debug\net10.0\8.8_FactorialFunction.exe
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\bin\Debug\net10.0\8.8_FactorialFunction.deps.json
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\bin\Debug\net10.0\8.8_FactorialFunction.runtimeconfig.json
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\bin\Debug\net10.0\8.8_FactorialFunction.dll
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\bin\Debug\net10.0\8.8_FactorialFunction.pdb
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.dll
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\refint\8.8_FactorialFunction.dll
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.pdb
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\8.8_FactorialFunction.genruntimeconfig.cache
+C:\users\zacha\documents\SDU\OOP\OOP-Exercises\8\8.8_FactorialFunction\obj\Debug\net10.0\ref\8.8_FactorialFunction.dll

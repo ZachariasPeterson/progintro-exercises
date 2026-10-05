@@ -1,0 +1,15 @@
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\bin\Debug\net10.0\eksperiment.exe
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\bin\Debug\net10.0\eksperiment.deps.json
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\bin\Debug\net10.0\eksperiment.runtimeconfig.json
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\bin\Debug\net10.0\eksperiment.dll
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\bin\Debug\net10.0\eksperiment.pdb
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.AssemblyInfoInputs.cache
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.AssemblyInfo.cs
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.sourcelink.json
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.dll
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\refint\eksperiment.dll
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.pdb
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\eksperiment.genruntimeconfig.cache
+C:\Users\zacha\Documents\SDU\OOP\OOP-Exercises\7\eksperiment\obj\Debug\net10.0\ref\eksperiment.dll
