@@ -16,7 +16,7 @@ while (c <=40){
     c += 0.5;
 }
 
-Console.WriteLine("_____________________________");
+Console.WriteLine("_____________________________"); //seperator for the two loops (that do the exact same thing)
 
 //do-while loop
 double c2 = -5;
